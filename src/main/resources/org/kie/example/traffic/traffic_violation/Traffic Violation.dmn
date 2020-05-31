@@ -146,7 +146,7 @@
       <dmn:contextEntry>
         <dmn:variable id="_28FAC636-8DF6-4F6B-A8FD-DFB51FBA210E" name="Total Points" typeRef="number"/>
         <dmn:literalExpression id="_2E95D28B-8EA8-4177-BFE7-CBA619A03FBB">
-          <dmn:text>Driver.Points + Fine.Pointscomo</dmn:text>
+          <dmn:text>Driver.Points + Fine.Points</dmn:text>
         </dmn:literalExpression>
       </dmn:contextEntry>
       <dmn:contextEntry>
