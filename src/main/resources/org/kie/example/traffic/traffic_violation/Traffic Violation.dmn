@@ -60,7 +60,7 @@
       </dmn:input>
       <dmn:input id="_66A0E9BD-6AFE-45EE-B549-1A3554C63A5B">
         <dmn:inputExpression id="_926B4078-015B-4F40-918A-47CED74CC4C7" typeRef="number">
-          <dmn:text>Violation.[Actual Speed] - Violation.[Speed Limit]</dmn:text>
+          <dmn:text>Violation.Actual Speed - Violation.Speed Limit</dmn:text>
         </dmn:inputExpression>
       </dmn:input>
       <dmn:output id="_8E0174B9-382B-4586-9803-8FC01D3AE6E5" name="Points" typeRef="number"/>
