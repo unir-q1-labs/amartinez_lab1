@@ -48,7 +48,7 @@
   </dmn:inputData>
   <dmn:decision id="_069A4562-9C92-402B-B48F-5E10A43C0D93" name="Fine">
     <dmn:extensionElements/>
-    <dmn:variable id="_731A70FB-6D54-48D8-B3AF-6AF2CDEE49C1" name="Fine" typeRef="tFine"/>
+    <dmn:variable id="_731A70FB-6D54-48D8-B3AF-6AF2CDEE49C1" name="Fine"/>
     <dmn:informationRequirement id="_69A2665A-851C-49BE-983F-726D8C206721">
       <dmn:requiredInput href="#_F9194BB6-2C0F-4198-8CD2-76AFF71C6ACD"/>
     </dmn:informationRequirement>
@@ -68,7 +68,7 @@
       <dmn:rule id="_2069E7D7-8310-482C-9755-E08F0071254C">
         <dmn:description>Punto 8</dmn:description>
         <dmn:inputEntry id="_4ABFE744-5F94-48C5-8BDE-9B4CD6282EFE">
-          <dmn:text>speed</dmn:text>
+          <dmn:text>"speed"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_D5E9361F-BE8C-4E10-A3DA-898A246681AF">
           <dmn:text>[10..30)</dmn:text>
@@ -83,7 +83,7 @@
       <dmn:rule id="_7C38F90F-1B5C-4372-B1AF-11B15C85ABF4">
         <dmn:description>Punto 9</dmn:description>
         <dmn:inputEntry id="_EE9A0CFE-A19A-4710-8B7B-8C9F97E1B0C0">
-          <dmn:text>speed</dmn:text>
+          <dmn:text>"speed"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_4A9CA9A5-D830-4FB7-A8FA-31C9DC8241F8">
           <dmn:text>&gt;= 30</dmn:text>
@@ -98,7 +98,7 @@
       <dmn:rule id="_0657B159-3BC7-45C8-A26C-A894D2C8D2B5">
         <dmn:description>Punto 10</dmn:description>
         <dmn:inputEntry id="_FE8CC35A-9D03-425C-B640-746616701603">
-          <dmn:text>parking</dmn:text>
+          <dmn:text>"parking"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_73572192-5ADD-4620-AF39-31553573E004">
           <dmn:text>-</dmn:text>
@@ -113,7 +113,7 @@
       <dmn:rule id="_36592ED7-8EC0-4DF8-8204-C55319F980DE">
         <dmn:description>Punto 11</dmn:description>
         <dmn:inputEntry id="_B5420330-440D-4D34-A63D-43E98641FC93">
-          <dmn:text>driving under the influence</dmn:text>
+          <dmn:text>"driving under the influence"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_AEF1B6F9-BDBD-4B9A-822B-89F8FDF48B46">
           <dmn:text>-</dmn:text>
