@@ -181,13 +181,13 @@
           </kie:ComponentWidths>
         </kie:ComponentsWidthsExtension>
       </di:extension>
-      <dmndi:DMNShape id="dmnshape-_F9194BB6-2C0F-4198-8CD2-76AFF71C6ACD" dmnElementRef="_F9194BB6-2C0F-4198-8CD2-76AFF71C6ACD" isCollapsed="false">
+      <dmndi:DMNShape id="dmnshape-_6353BD39-3113-4464-88A0-6DD40316A08C" dmnElementRef="_6353BD39-3113-4464-88A0-6DD40316A08C" isCollapsed="false">
         <dmndi:DMNStyle>
           <dmndi:FillColor red="255" green="255" blue="255"/>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="633" y="361" width="100" height="50"/>
+        <dc:Bounds x="398" y="230" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-_069A4562-9C92-402B-B48F-5E10A43C0D93" dmnElementRef="_069A4562-9C92-402B-B48F-5E10A43C0D93" isCollapsed="false">
@@ -199,13 +199,13 @@
         <dc:Bounds x="634" y="231" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
-      <dmndi:DMNShape id="dmnshape-_6353BD39-3113-4464-88A0-6DD40316A08C" dmnElementRef="_6353BD39-3113-4464-88A0-6DD40316A08C" isCollapsed="false">
+      <dmndi:DMNShape id="dmnshape-_F9194BB6-2C0F-4198-8CD2-76AFF71C6ACD" dmnElementRef="_F9194BB6-2C0F-4198-8CD2-76AFF71C6ACD" isCollapsed="false">
         <dmndi:DMNStyle>
           <dmndi:FillColor red="255" green="255" blue="255"/>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="398" y="230" width="100" height="50"/>
+        <dc:Bounds x="633" y="361" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-_DDD79A88-0E3E-45F0-A551-C6154D688723" dmnElementRef="_DDD79A88-0E3E-45F0-A551-C6154D688723" isCollapsed="false">
