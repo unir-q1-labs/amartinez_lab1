@@ -68,7 +68,7 @@
       <dmn:rule id="_2069E7D7-8310-482C-9755-E08F0071254C">
         <dmn:description>Punto 8</dmn:description>
         <dmn:inputEntry id="_4ABFE744-5F94-48C5-8BDE-9B4CD6282EFE">
-          <dmn:text>speed</dmn:text>
+          <dmn:text>"speed"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_D5E9361F-BE8C-4E10-A3DA-898A246681AF">
           <dmn:text>[10..30)</dmn:text>
